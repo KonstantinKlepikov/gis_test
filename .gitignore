@@ -33,3 +33,5 @@ ply/
 runs/
 data/
 Python-Geospatial-Development-Third-Edition/
+
+*.session.sql
